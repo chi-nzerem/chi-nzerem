@@ -15,6 +15,6 @@
 
 ### 👩🏾‍💻 Tech Stack:
 * Languages: Python, R, SQL
-* Frameworks & Packages: Data Analysis (Pandas, NumPy), Viz (Matplotlib, Seaborn, D3.js, Chart.js), ML (Scikit-learn), Backend Web Dev (Django), APIs (REST, OpenAI)
-* Databases: MySQL, PostgreSQL, MongoDB
+* Frameworks & Packages: Data Analysis (Pandas, NumPy), Viz (Matplotlib, Seaborn), ML (Scikit-learn)
+* Databases: MySQL, MongoDB
 * Tools: Git, Jupyter, VSCode, PyCharm, RStudio
