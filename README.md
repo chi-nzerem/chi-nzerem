@@ -10,5 +10,11 @@
 - 💬 Ask me about my passions & project idea motivations.
 - ✉️ Feel free to connect or message me on LinkedIn!
 
+### 💡 Projects I've Worked On:
+* [Physical Therapy Care Plan Recommender](https://github.com/gabbypile12/PhysicalTherapyRecommender)
+
 ### 👩🏾‍💻 Tech Stack:
-Python, R, SQL, MySQL
+* Languages: Python, R, SQL
+* Frameworks & Packages: Data Analysis (Pandas, NumPy), Viz (Matplotlib, Seaborn, D3.js, Chart.js), ML (Scikit-learn), Backend Web Dev (Django), APIs (REST, OpenAI)
+* Databases: MySQL, PostgreSQL, MongoDB
+* Tools: Git, Jupyter, VSCode, PyCharm, RStudio
